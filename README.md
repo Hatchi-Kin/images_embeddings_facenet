@@ -27,6 +27,9 @@
     └── upload.html
 ```
 
+## Screenshot
+![Image](https://raw.githubusercontent.com/Hatchi-Kin/images_embeddings_facenet/master/Screenshot_Sesame.png)
+
 ## 🏃 Installation
 dans le terminal:
 ```bash
