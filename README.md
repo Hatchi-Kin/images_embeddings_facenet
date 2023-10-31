@@ -1,6 +1,8 @@
 ﻿## ⁉️ ‼️ Mon interpretation de :
 ![Image](https://raw.githubusercontent.com/Hatchi-Kin/images_embeddings_facenet/master/tp.png)
 
+## Screenshot
+![Image](https://raw.githubusercontent.com/Hatchi-Kin/images_embeddings_facenet/master/Screenshot_Sesame.png)
 
 ## 🌳 Structure du projet
 ```markdown.
@@ -26,9 +28,6 @@
 └── templates                                  # le front de notre appli (le moins de js possible)
     └── upload.html
 ```
-
-## Screenshot
-![Image](https://raw.githubusercontent.com/Hatchi-Kin/images_embeddings_facenet/master/Screenshot_Sesame.png)
 
 ## 🏃 Installation
 dans le terminal:
