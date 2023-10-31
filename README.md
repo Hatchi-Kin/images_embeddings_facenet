@@ -2,7 +2,8 @@
 ![Image](https://raw.githubusercontent.com/Hatchi-Kin/images_embeddings_facenet/master/tp.png)
 
 ## Screenshot
-![Image](https://raw.githubusercontent.com/Hatchi-Kin/images_embeddings_facenet/master/Screenshot_Sesame.png)
+![Image](https://raw.githubusercontent.com/Hatchi-Kin/images_embeddings_facenet/master/Screenshot_Sesame2.png)
+
 
 ## 🌳 Structure du projet
 ```markdown.
