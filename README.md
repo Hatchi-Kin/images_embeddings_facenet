@@ -6,7 +6,8 @@
 
 
 ## 🌳 Structure du projet
-```markdown.
+```markdown
+.
 ├── app.py                                     # L'application Flask                         
 ├── process_pipeline.py                        # code pour pre-process les images                      
 ├── requirements.txt
